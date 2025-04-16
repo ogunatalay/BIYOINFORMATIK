@@ -86,6 +86,7 @@ Aşağıdaki FASTA formatındaki dosyaların proje dizininde (aynı klasörde) b
 
 ```bash
 pip install biopython
+```
 
 ## 📌 Proje Sahibi
 - 👨‍💻 İsim: Ogün Atalay
